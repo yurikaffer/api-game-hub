@@ -47,5 +47,5 @@ Você deve também rodar em sua maquina local o projeto frontend:https://github.
 - rodar o comando `node ace serve --watch`
 
 Feito com ❤️ por Yuri Kaffer 👋🏽 Entre em contato!
-yurikaffer@gmail.com
-https://www.linkedin.com/in/yuri-k-a97755133/
+- yurikaffer@gmail.com
+- https://www.linkedin.com/in/yuri-k-a97755133/
